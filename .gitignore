@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables & secrets
+.env
+*.env
+
+# Temporary and output files
+alert.jpg
+*.log
+
+# DeepFace / OpenCV representation caches
+*.pkl
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
